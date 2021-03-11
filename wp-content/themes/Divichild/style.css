@@ -1,0 +1,16 @@
+/*
+Theme Name:   Divichild
+Description:  Write here a brief description about your child-theme
+Author:       admin
+Author URL:   http://localhost/waraqa
+Template:     Divi
+Version:      1.0
+License:      GNU General Public License v2 or later
+License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain:  Divichild
+*/
+
+/* Write here your own personal stylesheet */
+div#et-top-navigation {
+    width: 750px;
+}

@@ -1,0 +1,511 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Divi\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-03-09 11:49+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.1; wp-5.6.2\n"
+"X-Domain: Divi"
+
+#: ../Divi/includes/functions/choices.php:71
+#: ../Divi/includes/functions/choices.php:72
+#: ../Divi/includes/functions/choices.php:73
+#: ../Divi/includes/functions/choices.php:75
+#: ../Divi/includes/functions/choices.php:76
+#: ../Divi/includes/functions/choices.php:77
+#: ../Divi/includes/functions/choices.php:78
+#: ../Divi/includes/functions/choices.php:79
+#: ../Divi/includes/functions/choices.php:80
+#: ../Divi/includes/functions/choices.php:81
+#: ../Divi/includes/functions/choices.php:82
+#: ../Divi/includes/functions/choices.php:83
+#: ../Divi/includes/functions/choices.php:84
+#: ../Divi/includes/functions/choices.php:85
+#: ../Divi/includes/functions/choices.php:86
+#: ../Divi/includes/functions/choices.php:87
+#: ../Divi/includes/functions/choices.php:88
+#: ../Divi/includes/functions/choices.php:89
+#: ../Divi/includes/functions/choices.php:90
+#, php-format
+msgid "%1$s Columns"
+msgstr ""
+
+#: ../Divi/includes/navigation.php:2
+msgid "&laquo; Older Entries"
+msgstr ""
+
+#: ../Divi/comments.php:13
+msgid "0 Comments"
+msgstr ""
+
+#: ../Divi/includes/functions/choices.php:74
+msgid "1 Column"
+msgstr ""
+
+#: ../Divi/comments.php:13
+msgid "1 Comment"
+msgstr ""
+
+#: ../Divi/comments.php:18 ../Divi/comments.php:31
+msgid "<span class=\"meta-nav\">&larr;</span> Older Comments"
+msgstr ""
+
+#: ../Divi/includes/widgets/widget-about.php:12
+#: ../Divi/includes/widgets/widget-about.php:41
+msgid "About Me"
+msgstr ""
+
+#: ../Divi/includes/widgets/widget-adsense.php:12
+#: ../Divi/includes/widgets/widget-adsense.php:41
+msgid "Adsense"
+msgstr ""
+
+#: ../Divi/includes/widgets/widget-adsense.php:49
+msgid "Adsense Code"
+msgstr ""
+
+#: ../Divi/includes/widgets/widget-ads.php:12
+#: ../Divi/includes/widgets/widget-ads.php:136
+msgid "Advertisement"
+msgstr ""
+
+#: ../Divi/includes/widgets/widget-ads.php:194
+#: ../Divi/includes/widgets/widget-ads.php:202
+#: ../Divi/includes/widgets/widget-ads.php:210
+#: ../Divi/includes/widgets/widget-ads.php:218
+#: ../Divi/includes/widgets/widget-ads.php:226
+#: ../Divi/includes/widgets/widget-ads.php:234
+#: ../Divi/includes/widgets/widget-ads.php:242
+#: ../Divi/includes/widgets/widget-ads.php:250
+msgid "Alt"
+msgstr ""
+
+#: ../Divi/includes/widgets/widget-ads.php:188
+#: ../Divi/includes/widgets/widget-ads.php:190
+#: ../Divi/includes/widgets/widget-ads.php:192
+#: ../Divi/includes/widgets/widget-ads.php:194
+#: ../Divi/includes/widgets/widget-ads.php:196
+#: ../Divi/includes/widgets/widget-ads.php:198
+#: ../Divi/includes/widgets/widget-ads.php:200
+#: ../Divi/includes/widgets/widget-ads.php:202
+#: ../Divi/includes/widgets/widget-ads.php:204
+#: ../Divi/includes/widgets/widget-ads.php:206
+#: ../Divi/includes/widgets/widget-ads.php:208
+#: ../Divi/includes/widgets/widget-ads.php:210
+#: ../Divi/includes/widgets/widget-ads.php:212
+#: ../Divi/includes/widgets/widget-ads.php:214
+#: ../Divi/includes/widgets/widget-ads.php:216
+#: ../Divi/includes/widgets/widget-ads.php:218
+#: ../Divi/includes/widgets/widget-ads.php:220
+#: ../Divi/includes/widgets/widget-ads.php:222
+#: ../Divi/includes/widgets/widget-ads.php:224
+#: ../Divi/includes/widgets/widget-ads.php:226
+#: ../Divi/includes/widgets/widget-ads.php:228
+#: ../Divi/includes/widgets/widget-ads.php:230
+#: ../Divi/includes/widgets/widget-ads.php:232
+#: ../Divi/includes/widgets/widget-ads.php:234
+#: ../Divi/includes/widgets/widget-ads.php:236
+#: ../Divi/includes/widgets/widget-ads.php:238
+#: ../Divi/includes/widgets/widget-ads.php:240
+#: ../Divi/includes/widgets/widget-ads.php:242
+#: ../Divi/includes/widgets/widget-ads.php:244
+#: ../Divi/includes/widgets/widget-ads.php:246
+#: ../Divi/includes/widgets/widget-ads.php:248
+#: ../Divi/includes/widgets/widget-ads.php:250
+msgid "Banner"
+msgstr ""
+
+#. Name of the template
+msgid "Blank Page"
+msgstr ""
+
+#: ../Divi/includes/functions/choices.php:9
+msgid "Bold"
+msgstr ""
+
+#: ../Divi/includes/functions/choices.php:166
+msgid "Bottom"
+msgstr ""
+
+#: ../Divi/includes/functions/choices.php:131
+msgid "Bottom to Top"
+msgstr ""
+
+#: ../Divi/includes/builder/feature/woocommerce-modules.php:59
+msgid "Build From Scratch"
+msgstr ""
+
+#: ../Divi/includes/functions/choices.php:41
+msgid "Centered"
+msgstr ""
+
+#: ../Divi/includes/functions/choices.php:42
+msgid "Centered Inline Logo"
+msgstr ""
+
+#: ../Divi/comments.php:13
+msgid "Comments"
+msgstr ""
+
+#: ../Divi/includes/functions/choices.php:147
+msgid "Dashed"
+msgstr ""
+
+#: ../Divi/includes/functions/choices.php:24
+#: ../Divi/includes/functions/choices.php:40
+#: ../Divi/includes/builder/feature/woocommerce-modules.php:60
+msgid "Default"
+msgstr ""
+
+#: ../Divi/includes/widgets/widget-about.php:4
+msgid "Displays About Me Information"
+msgstr ""
+
+#: ../Divi/includes/widgets/widget-adsense.php:4
+msgid "Displays Adsense Ads"
+msgstr ""
+
+#: ../Divi/includes/widgets/widget-ads.php:4
+msgid "Displays Advertisements"
+msgstr ""
+
+#: ../Divi/includes/builder/feature/BlockEditorIntegration.php:640
+msgid "Divi Page Settings"
+msgstr ""
+
+#: ../Divi/includes/functions/choices.php:146
+msgid "Dotted"
+msgstr ""
+
+#: ../Divi/includes/functions/choices.php:148
+msgid "Double"
+msgstr ""
+
+#: ../Divi/includes/widgets/widget-about.php:6
+msgid "ET About Me Widget"
+msgstr ""
+
+#: ../Divi/includes/widgets/widget-adsense.php:6
+msgid "ET Adsense Widget"
+msgstr ""
+
+#: ../Divi/includes/widgets/widget-ads.php:6
+msgid "ET Advertisement"
+msgstr ""
+
+#: ../Divi/includes/functions/choices.php:57
+msgid "Expand"
+msgstr ""
+
+#: ../Divi/includes/social_icons.php:6
+msgid "Facebook"
+msgstr ""
+
+#: ../Divi/includes/functions/choices.php:56
+msgid "Fade"
+msgstr ""
+
+#: ../Divi/includes/functions/choices.php:132
+msgid "Fade In"
+msgstr ""
+
+#: ../Divi/includes/functions/choices.php:194
+msgid "Fixed"
+msgstr ""
+
+#: ../Divi/includes/functions/choices.php:59
+msgid "Flip"
+msgstr ""
+
+#: ../Divi/includes/functions/sidebars.php:13
+#: ../Divi/includes/functions/sidebars.php:22
+#: ../Divi/includes/functions/sidebars.php:31
+#: ../Divi/includes/functions/sidebars.php:40
+#: ../Divi/includes/functions/sidebars.php:49
+#: ../Divi/includes/functions/sidebars.php:58
+msgid "Footer Area"
+msgstr ""
+
+#: ../Divi/includes/functions/choices.php:44
+msgid "Fullscreen"
+msgstr ""
+
+#: ../Divi/includes/social_icons.php:20
+msgid "Google"
+msgstr ""
+
+#: ../Divi/includes/functions/choices.php:25
+msgid "Green"
+msgstr ""
+
+#: ../Divi/includes/functions/choices.php:149
+msgid "Groove"
+msgstr ""
+
+#: ../Divi/header.php:208 ../Divi/header.php:277 ../Divi/theme-header.php:172
+#: ../Divi/theme-header.php:241
+msgid "Home"
+msgstr ""
+
+#: ../Divi/includes/widgets/widget-ads.php:251
+msgid ""
+"If you don't want to display some banners - leave approptiate fields blank"
+msgstr ""
+
+#: ../Divi/includes/widgets/widget-about.php:46
+#: ../Divi/includes/widgets/widget-ads.php:188
+#: ../Divi/includes/widgets/widget-ads.php:196
+#: ../Divi/includes/widgets/widget-ads.php:204
+#: ../Divi/includes/widgets/widget-ads.php:212
+#: ../Divi/includes/widgets/widget-ads.php:220
+#: ../Divi/includes/widgets/widget-ads.php:228
+#: ../Divi/includes/widgets/widget-ads.php:236
+#: ../Divi/includes/widgets/widget-ads.php:244
+msgid "Image"
+msgstr ""
+
+#: ../Divi/includes/functions/choices.php:151
+msgid "Inset"
+msgstr ""
+
+#: ../Divi/includes/social_icons.php:28
+msgid "Instagram"
+msgstr ""
+
+#: ../Divi/includes/functions/choices.php:10
+msgid "Italic"
+msgstr ""
+
+#: ../Divi/comments.php:56
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: ../Divi/includes/functions/choices.php:116
+msgid "Left"
+msgstr ""
+
+#: ../Divi/includes/functions/choices.php:128
+msgid "Left to Right"
+msgstr ""
+
+#: ../Divi/comments.php:19 ../Divi/comments.php:32
+msgid "Newer Comments <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../Divi/includes/navigation.php:3
+msgid "Next Entries &raquo;"
+msgstr ""
+
+#: ../Divi/single-project.php:74
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr ""
+
+#: ../Divi/includes/functions/choices.php:103
+msgid "No"
+msgstr ""
+
+#: ../Divi/includes/functions/choices.php:133
+msgid "No Animation"
+msgstr ""
+
+#: ../Divi/includes/functions/choices.php:178
+msgid "No Repeat"
+msgstr ""
+
+#: ../Divi/includes/no-results.php:9
+msgid "No Results Found"
+msgstr ""
+
+#: ../Divi/includes/widgets/widget-ads.php:185
+msgid "Open in a new window"
+msgstr ""
+
+#. If there are characters in your language that are not
+#. supported by Open Sans, translate this to 'off'. Do not translate
+#. into your own language.
+#: ../Divi/core/functions.php:247
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr ""
+
+#: ../Divi/includes/functions/choices.php:26
+msgid "Orange"
+msgstr ""
+
+#: ../Divi/includes/functions/choices.php:152
+msgid "Outset"
+msgstr ""
+
+#: ../Divi/page-template-blank.php:52 ../Divi/page.php:49
+#: ../Divi/single-project.php:56 ../Divi/single.php:135
+msgid "Pages:"
+msgstr ""
+
+#: ../Divi/includes/functions/choices.php:27
+msgid "Pink"
+msgstr ""
+
+#: ../Divi/single-project.php:73
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr ""
+
+#: ../Divi/includes/functions/choices.php:28
+msgid "Red"
+msgstr ""
+
+#: ../Divi/includes/functions/choices.php:150
+msgid "Ridge"
+msgstr ""
+
+#: ../Divi/includes/functions/choices.php:115
+msgid "Right"
+msgstr ""
+
+#: ../Divi/includes/functions/choices.php:129
+msgid "Right to Left"
+msgstr ""
+
+#: ../Divi/includes/social_icons.php:40
+msgid "RSS"
+msgstr ""
+
+#: ../Divi/includes/functions/choices.php:193
+msgid "Scroll"
+msgstr ""
+
+#: ../Divi/header.php:156 ../Divi/header.php:326 ../Divi/theme-header.php:120
+#: ../Divi/theme-header.php:290
+msgid "Search &hellip;"
+msgstr ""
+
+#: ../Divi/header.php:158 ../Divi/header.php:328 ../Divi/theme-header.php:122
+#: ../Divi/theme-header.php:292
+msgid "Search for:"
+msgstr ""
+
+#: ../Divi/includes/functions/sidebars.php:4
+msgid "Sidebar"
+msgstr ""
+
+#: ../Divi/includes/functions/choices.php:58
+msgid "Slide"
+msgstr ""
+
+#: ../Divi/includes/functions/choices.php:43
+msgid "Slide In"
+msgstr ""
+
+#: ../Divi/includes/functions/choices.php:145
+msgid "Solid"
+msgstr ""
+
+#: ../Divi/comments.php:56
+msgid "Submit a Comment"
+msgstr ""
+
+#: ../Divi/comments.php:56
+msgid "Submit Comment"
+msgstr ""
+
+#: ../Divi/includes/widgets/widget-about.php:48
+msgid "Text"
+msgstr ""
+
+#: ../Divi/includes/no-results.php:10
+msgid ""
+"The page you requested could not be found. Try refining your search, or use "
+"the navigation above to locate the post."
+msgstr ""
+
+#: ../Divi/comments.php:4
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: ../Divi/includes/functions/choices.php:179
+msgid "Tile"
+msgstr ""
+
+#: ../Divi/includes/functions/choices.php:180
+msgid "Tile Horizontally"
+msgstr ""
+
+#: ../Divi/includes/functions/choices.php:181
+msgid "Tile Vertically"
+msgstr ""
+
+#: ../Divi/includes/widgets/widget-about.php:44
+#: ../Divi/includes/widgets/widget-ads.php:180
+#: ../Divi/includes/widgets/widget-ads.php:192
+#: ../Divi/includes/widgets/widget-ads.php:200
+#: ../Divi/includes/widgets/widget-ads.php:208
+#: ../Divi/includes/widgets/widget-ads.php:216
+#: ../Divi/includes/widgets/widget-ads.php:224
+#: ../Divi/includes/widgets/widget-ads.php:232
+#: ../Divi/includes/widgets/widget-ads.php:240
+#: ../Divi/includes/widgets/widget-ads.php:248
+#: ../Divi/includes/widgets/widget-adsense.php:47
+msgid "Title"
+msgstr ""
+
+#: ../Divi/includes/functions/choices.php:164
+msgid "Top"
+msgstr ""
+
+#: ../Divi/includes/functions/choices.php:130
+msgid "Top to Bottom"
+msgstr ""
+
+#: ../Divi/comments.php:38
+msgid "Trackbacks/Pingbacks"
+msgstr ""
+
+#: ../Divi/includes/social_icons.php:13
+msgid "Twitter"
+msgstr ""
+
+#: ../Divi/includes/functions/choices.php:12
+msgid "Underline"
+msgstr ""
+
+#: ../Divi/includes/functions/choices.php:11
+msgid "Uppercase"
+msgstr ""
+
+#: ../Divi/includes/widgets/widget-ads.php:190
+#: ../Divi/includes/widgets/widget-ads.php:198
+#: ../Divi/includes/widgets/widget-ads.php:206
+#: ../Divi/includes/widgets/widget-ads.php:214
+#: ../Divi/includes/widgets/widget-ads.php:222
+#: ../Divi/includes/widgets/widget-ads.php:230
+#: ../Divi/includes/widgets/widget-ads.php:238
+#: ../Divi/includes/widgets/widget-ads.php:246
+msgid "Url"
+msgstr ""
+
+#: ../Divi/includes/widgets/widget-ads.php:183
+msgid "Use Relative Image Paths"
+msgstr ""
+
+#: ../Divi/includes/functions/choices.php:165
+msgid "Vertically Centered"
+msgstr ""
+
+#: ../Divi/includes/functions/tutorials.php:1
+msgid "Watch video tutorials"
+msgstr ""
+
+#: ../Divi/includes/functions/choices.php:102
+msgid "Yes"
+msgstr ""
